@@ -1,0 +1,5 @@
+1. git bash at profiles-rest-api (master)
+2. vagrant up and then vagrant ssh
+3. cd /vagrant
+4. source ~/env/bin/activate
+5. python manage.py runserver 0.0.0.0:8000
